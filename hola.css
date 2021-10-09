@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body{
+background:#D4F789;
+}
+.header{
+color:#38AB16;
+font-family:"optima";
+font-size:35px;
+text-align: center
+}
+
+#menu{
+width:1270px;
+height:45px;
+}
+.barra{
+padding:16px;
+}
+#menu a:hover{
+color:#FFFFFF;
+background:#C9C236;
+transition:1s;
+transform:scale(1.2);
+}
+#menu ul{
+list-style:none;
+margin:0;
+padding:0;
+text-align:center;
+}
+#menu li{
+float:left;
+}
+#menu a{
+color:#ECA40C;
+text-decoration:none;
+display:block;
+padding:15px 20px;
+font-family:"Press Start 2P";
+font-size:15px;
+}
+.aside{
+float:left;
+}
+.arc{
+color:#B1B90D;
+font-family:"brush script mt";
+font-size:35px;
+text-align: center;
+}
+.h1{
+color:#F2FB3B;
+font-family:"ginebra";
+font-size:45px;
+text-align: center;
+}
+.arc2{
+color:#B1B90D;
+font-family:"candara";
+font-size:35px;
+text-align: center;
+}
+.fot{
+color:DAB313;
+font-family:"candara";
+font-size:30px;
+text-align: center;
+}
